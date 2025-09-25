@@ -1,2 +1,2 @@
-# FrontEnd-Course
+# FrontEnd
 Html, CSS, Bootstrap
